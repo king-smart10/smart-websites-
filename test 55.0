@@ -1,1 +1,54 @@
-hello world 
+<!DOCTYPE html>
+<html>
+ <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" href="style.css">
+      <meta http-equiv="X-UA-Compatible" content="edge">
+      <meta name="viewport" content="width-device-width, initial-scale-1.0">
+      <meta name="keywords" content="">
+      <style>
+            div  {
+                  background-color: rgb(98, 122, 122);
+            }
+            img {
+                  min-width: 100%;
+                  max-height: 100%;
+             }
+             .piclogo {
+                  width: 300px;
+                  height: 150px;
+                  margin-left: 0%;
+                  margin-right: 50%;
+             }
+            .picture1 {
+                  width: 1340px;
+                  height: 350px;
+                  
+            }
+      </style>
+ </head>
+      </body>
+       <div>
+            <div class="piclogo">
+                  <img src="c:\Users\g\Downloads\IMG_0153.png" alt="" srcset="">
+             </div>
+             <div class="slider frame">
+                  <div class="slide images">
+                        <div class="picture1">
+                              <img src="c:\Users\g\Downloads\d95c9784-7569-493c-b1c7-47abf00d7551.jpg" alt="pst.henry">
+                        </div>    
+                        <div class="picture1">
+                              <img src="c:\Users\g\Downloads\d95c9784-7569-493c-b1c7-47abf00d7551.jpg" alt="pst.henry">
+                        </div> 
+                        <div class="picture1">
+                              <img src="c:\Users\g\Downloads\d95c9784-7569-493c-b1c7-47abf00d7551.jpg" alt="pst.henry">
+                        </div>    
+                  </div>
+             </div>
+             <ol>
+              <li> <a href="https://youtube.com/@PeculuiarTreasureTV?si=9dvl6Yz9popuTABJ">youtube</a></li>
+              <li><a href="https://www.instagram.com/thereal_ptgm?igsh=eDZ0cnQzcWs0M25t">instagram</a></li>
+              <li><a href="https://www.facebook.com/PeculiarTreasureGlobalMission?mibextid=LQQJ4d">facebook4</a></li>
+           </ol>
+       </div>
+</body>
